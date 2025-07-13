@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="1.522">
+  <testsuite name="PatientRegistrationForm" errors="0" failures="0" skipped="0" timestamp="2025-07-13T08:48:03" time="1.142" tests="3">
+    <testcase classname="PatientRegistrationForm displays error messages for empty fields" name="PatientRegistrationForm displays error messages for empty fields" time="0.027">
+    </testcase>
+    <testcase classname="PatientRegistrationForm registers a new patient and clears the form data" name="PatientRegistrationForm registers a new patient and clears the form data" time="0.35">
+    </testcase>
+    <testcase classname="PatientInformation displays patient information when patient is found" name="PatientInformation displays patient information when patient is found" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>

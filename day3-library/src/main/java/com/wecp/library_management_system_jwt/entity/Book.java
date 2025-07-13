@@ -1,0 +1,73 @@
+package com.wecp.library_management_system_jwt.entity;
+
+import javax.persistence.*;
+
+@Entity
+@Table(name = "books")
+public class Book {
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(unique = true)
+    private Long id;
+
+    private String title;
+    private String author;
+    private String description;
+    private boolean availability;
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public boolean getAvailability() {
+        return availability;
+    }
+
+    public boolean isAvailability() {
+        return this.getAvailability(); // or directly return availability if Boolean field
+    }
+
+    public void setAvailability(boolean availability) {
+        this.availability = availability;
+    }
+
+    public Book() {
+    }
+
+    public Book(Long id, String title, String author, String description, Boolean availability) {
+        this.id = id;
+        this.title = title;
+        this.author = author;
+        this.description = description;
+        this.availability = availability;
+    }
+
+}

@@ -1,0 +1,11 @@
+com/example/demo/repository/TeamRepository.class
+com/example/demo/DemoApplication.class
+com/example/demo/repository/GameRepository.class
+com/example/demo/entity/Team.class
+com/example/demo/service/impl/GameServiceImpl.class
+com/example/demo/controller/GameController.class
+com/example/demo/entity/Game.class
+com/example/demo/service/impl/TeamServiceImpl.class
+com/example/demo/service/TeamService.class
+com/example/demo/controller/TeamController.class
+com/example/demo/service/GameService.class

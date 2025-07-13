@@ -1,0 +1,11 @@
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/controller/GameController.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/entity/Game.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/entity/Team.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/repository/GameRepository.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/service/impl/GameServiceImpl.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/service/TeamService.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/repository/TeamRepository.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/service/impl/TeamServiceImpl.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/service/GameService.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/DemoApplication.java
+/Users/gotamsingh/Desktop/ReactAdvance/springboot-crud-jpa/src/main/java/com/example/demo/controller/TeamController.java

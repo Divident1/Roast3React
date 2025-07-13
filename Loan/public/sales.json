@@ -1,0 +1,7 @@
+[
+  { "id": 1, "buyerName": "Alice", "saleTotal": 1200, "creditCard": false },
+  { "id": 2, "buyerName": "Bob", "saleTotal": 3000, "creditCard": true },
+  { "id": 3, "buyerName": "Charlie", "saleTotal": 1500, "creditCard": false },
+  { "id": 4, "buyerName": "Alice", "saleTotal": 2500, "creditCard": true },
+  { "id": 5, "buyerName": "David", "saleTotal": 1800, "creditCard": false }
+]

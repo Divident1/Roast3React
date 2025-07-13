@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "src/tests": true,
+    "src/setupTests.js": true,
+    "jest.config.json": true,
+    "test.js": true,
+    ".vscode": true
+  }
+}
